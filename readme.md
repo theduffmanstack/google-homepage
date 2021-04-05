@@ -1,0 +1,1 @@
+This is just a simple readme demonstrating I know how to use the cloning aspect of GitHub, and then will soon be making a basic webpage.
